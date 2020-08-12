@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* .seprate{
+    
+        width: 20%;
+        height: 3px;
+        background-color: black;
+        display: block;
+} */
+.navbar a:hover {
+    background:yellow;
+    color: black !important;
+  }
+
+
+.bg-light {
+    background-color: antiquewhite;
+}
+.logo {
+    width: 184px;
+    height: 100px;
+    object-fit: cover;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    /* color: rgba(0,0,0,.9); */
+    color: #e9ecef;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: yellow;
+}
+.big-light.secondbar.sticky-top {
+    background-color: black;
+}
+nav.innav.navbar.navbar-expand-sm.navbar-light.bg-light {
+    background-color: black!important;
+}
+img.d-block.w-100 {
+    object-fit: cover;
+    width: 1920px;
+    height: 1080px;
+}
+.badge-secondary {
+    color: black;
+    background-color: yellow;
+}
+.jumbotron.jumbotron-fluid {
+    background-color: lightskyblue;
+}
+.foot.col-md-12.bg-light.py-3.text-center.mb-5.py-4 {
+    background-color: black !important;
+}
+.text-dark {
+    color: yellow!important;
+}
+a.fa.fa-facebook.fa-2x.px-1 {
+    color: white;
+}
+a.fa.fa-facebook.fa-2x.px-1:hover {
+    color:#007bff;
+}
+a.fa.fa-linkedin.fa-2x.px-1 {
+    color: white;
+}
+a.fa.fa-linkedin.fa-2x.px-1:hover {
+    color:#007bff;
+}
+a.fa.fa-instagram.fa-2x.px-1 {
+    color: white;
+}
+a.fa.fa-instagram.fa-2x.px-1:hover {
+    color:#007bff;
+}
+a.fa.fa-github.fa-2x.px-1 {
+    color: white;
+}
+a.fa.fa-github.fa-2x.px-1:hover {
+    color:#007bff;
+}
+.card-header.text-center.text-uppercase.big-secondary {
+    background-color: yellow;
+}
+.card-header.text-center.big-secondary{
+    background-color: yellow;
+}
+.card1{
+position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid ;
+    border-radius: .25rem;
+}
+.card1:hover{
+    background-color: lightskyblue;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: black;
+    border-color: #0062cc;
+}
+.creatdesign.p-4.text-center.shadow-lg.p-3.mb-5 {
+    background-color: lightskyblue;
+}
+.fastsupport.p-4.text-center.shadow-lg.p-3.mb-5 {
+    background-color: lightskyblue;
+}

@@ -1,0 +1,71 @@
+body{
+    margin: auto;
+    padding: auto;
+    background-color: cadetblue;
+    padding-top: 150px;
+    /* background-image: url(https://cdn3.vectorstock.com/i/1000x1000/18/72/creative-frame-art-background-vector-22571872.jpg); */
+    background-size: cover;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+}
+.main{
+    border: 2px solid brown;
+    width: 220px;
+    margin: 0px auto;
+    
+}
+.input>input{
+    width: 217px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
+.downhalf{
+    background-color: darkred;
+}
+.btn {
+    background-color: coral;
+    width: 37px;
+    margin: 1px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px 6px;
+    border: 1px solid black;
+}
+.btnequal{
+    background-color:green;
+    width: 37px;
+    margin: 1px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px 6px;
+    color: white;
+}
+.btnc{
+    background-color:#ff0000;
+    width: 37px;
+    margin: 1px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px 6px;
+    color: white;
+}
+.btnzero{
+    background-color:#545050;
+    width: 124px;
+    margin: 1px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 6px 6px;
+    color: white;
+}
+.title{
+    background-color: yellow;
+    color: black;
+    float: right;
+    text-align: center;
+    font-weight: bold;
+    width: 400px;
+    font-size: large;
+}

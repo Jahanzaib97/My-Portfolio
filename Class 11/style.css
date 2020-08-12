@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+.navigation {
+    /* color: beige; */
+    float: right;
+    padding-right: 110px;
+}
+img {
+    width: 200px;
+    height: 80px;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: orange !important;
+}
+img.d-block.w-100 {
+    width: 1220px;
+    height: 491px;
+    object-fit: cover;
+}
+img.card-img-top {
+    width: 210px;
+    height: 220px;
+    object-fit: contain;
+   
+}
+.card {
+    background-color: lightcyan;
+    text-align: -webkit-center;
+}
+.project.p-4.bg-light {
+    background-color: orange !important;
+    font-size: xx-large;
+}
+i.fa.fa-truck {
+    font-size: xxx-large;
+}
+i.fa.fa-headphones {
+    font-size: xxx-large;
+}
+i.fa.fa-thumbs-up {
+    font-size: xxx-large;
+}
+.IG >
+img {
+    width: 240px;
+    height: 160px;
+    object-fit: cover;
+}
+.IGP >
+img {
+    /* width: 240px; */
+    height: 160px;
+    object-fit: cover;
+}
+.para-about-us {
+    text-align: justify;
+    color: gray;
+    font-family: serif;
+    font-size: large;
+    font-variant-caps: all-petite-caps;
+}
+.map {
+    background-color: cadetblue;
+}
+@media screen and (max-width: 600px) {
+    .map {
+     display: none;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    img.d-block.w-100 {
+        /* width: 1220px; */
+        width: 100%;
+        height:auto;
+    }
+  }
+
+  .header.text-light.bg-primary.py-2.text-center {
+    background-color: black !important;
+}
+.products.text-light.bg-primary.py-2.text-center {
+    background-color: orange !important;
+    margin-top: 50px;
+
+}
+.footer{
+    background-color: orange;
+    font-weight: 600;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.prod-footer {
+    font-size: x-large;
+}
+.footproducts.text-light.bg-primary.py-2.text-center {
+    background-color: black !important;
+}
+.footlogo.text-center {
+    padding: 38px;
+}
+.underline {
+    background: cornsilk;
+    width: 70px;
+    height: 3px;
+}
+.row-minicard,.row-arrival,.row-products {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-top: 50px;
+}
+.col-md-4.py-2.text-center {
+    padding: 55px;
+}

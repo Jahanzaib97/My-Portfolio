@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+    color: rgb(130, 85, 172);
+    text-decoration: underline;
+}
+
+.maincontainer{
+    width:auto;
+}
+
+.container{
+    border: 2px solid rgb(0, 0, 0);
+     background-color:rgb(130, 85, 172);
+    color: white;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+ 
+.heading2{
+    color: rgb(127, 35, 212);
+    font-weight: 10px;
+}
+   
